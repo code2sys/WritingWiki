@@ -20,8 +20,7 @@ In less than 10 minutes, you are able to see the Beacons around!
 
 | SDK Development 							| Application Providers 							|
 |:-----------------------------------------:|:-------------------------------------------------:|
-| [[/images/sdk.png]] 			   	  	    | [[/images/app.png]] 				  			    |
-| [[SDK Development|SDK-Development]]	    | [[Application Providers|Application-Providers]]   |
+| [![i1] [sdk-image]] [sdk-doc]	    		| [![i2] [app-image]] [app-doc]   					|
 | Documentation for the SDK Developers	    | Documentation for the Application Providers       |
 
 ## Copyright
