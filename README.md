@@ -1,35 +1,34 @@
 
 #SRBeacon SDK
 
-[SkuRun, Inc](http://skurun.com) introduces the **SRBeacon SDK with CRM**, empowering application providers to access micro-location based data, and communicate with those in real time.
+[SkuRun](http://skurun.com) introduces the **SRBeacon** SDK with CRM, empowering application providers to access micro-location based data, and communicate with those in real time.
 
-SRBeacon SDK provide the way allows you to detect iBeacons around easily and interact with them. You can control over the actions of each iBeacons through **SRBeacon CRM**.
+SRBeacon provide the way allows you to detect Beacons around easily and interact with them. You can control over the actions of each Beacons through **SRBeacon CRM**.
 
 It’s fun and easy to use. 
 
-* Setup your app through CRM.
+* Setup your app through SRBeacon CRM.
 
-* Register the iBeacons used in your app and their actions through CRM.
+* Register the Beacons used in your app and their actions through SRBeacon CRM.
 
 * Integrate the SRBeacon SDK into your app and implement few codes.
 
-In less than 10 minutes, you are able to see your iBeacons around you!
+In less than 10 minutes, you are able to see the Beacons around!
 
 
 ##Resources
 
-| Development	| QA		| CRM & Backend Service |
-|:---------------------:|:---------------------:|:------------------------:|:------------------------:|
-| [![i1] [dev-image]] [dev-doc] | [![i2] [qa-image]] [qa-doc] | [![i3] [baas-image]] [baas-doc] |
-| Documentation for the Application Providers | Documentation for the QA Testers | Documentation about CRM & Backend Service |
+| SDK Development 							| Application Providers 							|
+|:-----------------------------------------:|:-------------------------------------------------:|
+| [[/images/sdk.png]] 			   	  	    | [[/images/app.png]] 				  			    |
+| [[SDK Development|SDK-Development]]	    | [[Application Providers|Application-Providers]]   |
+| Documentation for the SDK Developers	    | Documentation for the Application Providers       |
 
 ## Copyright
 
-Retail Mapper is copyright 2014 SkuRun, Inc.
+SRBeacon is copyright 2014 SkuRun, Inc.
 
-[dev-doc]: https://github.com/SkuRun/SRBeacon/wiki/Development
-[dev-image]: https://github.com/SkuRun/SRBeacon/wiki/images/development.png
-[qa-doc]: https://github.com/SkuRun/SRBeacon/wiki/Quality-Assurance
-[qa-image]: https://github.com/SkuRun/SRBeacon/wiki/images/qa.png
-[baas-doc]: https://github.com/SkuRun/SRBeacon/wiki/Backend-Service
-[baas-image]: https://github.com/SkuRun/SRBeacon/wiki/images/baas.png
+[sdk-doc]: https://github.com/SkuRun/SRBeacon/wiki/SDK-Development
+[sdk-image]: https://github.com/SkuRun/SRBeacon/wiki/images/sdk.png
+[app-doc]: https://github.com/SkuRun/SRBeacon/wiki/Application-Providers
+[app-image]: https://github.com/SkuRun/SRBeacon/wiki/images/app.png
