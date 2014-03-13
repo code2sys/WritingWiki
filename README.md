@@ -1,59 +1,35 @@
-![Retail Mapper] [icon]
 
-#RetailMapper-iOS
+#SRBeacon SDK
 
-Retail Mapper allows you to visualize point of sale material in real time. 
+[SkuRun, Inc](http://skurun.com) introduces the **SRBeacon SDK with CRM**, empowering application providers to access micro-location based data, and communicate with those in real time.
+
+SRBeacon SDK provide the way allows you to detect iBeacons around easily and interact with them. You can control over the actions of each iBeacons through **SRBeacon CRM**.
 
 It’s fun and easy to use. 
 
-* Simply choose a retail location. 
+* Setup your app through CRM.
 
-![Choose a retail location] [screenshot1]
+* Register the iBeacons used in your app and their actions through CRM.
 
-* Snap a photo, or select an image from your camera library. 
+* Integrate the SRBeacon SDK into your app and implement few codes.
 
-![Select an image from camera library] [screenshot2]
+In less than 10 minutes, you are able to see your iBeacons around you!
 
-* Drag and drop point of sale assets onto the image. Move, resize, reshape, and annotate over your newly created image.
-
-![Apply photo filter] [screenshot3]
-
-* Save and publish to the cloud and wallah, you’re done. 
-
-![Save and publish] [screenshot4]
-
-
-In less than two minutes you are now able to completely visualize a retail makeover, all from your device.
-
-Collect and index photos of retail environments right from your palm.
-
-Retail Mapper is ideal for on the road field marketing and merchandising teams. Wow your retailers today, just contact us to get setup with an account at info@skurun.com.
 
 ##Resources
 
-
-
-
-##Version and Build number
-[The version and build numbers](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/ConfiguringYourApp/ConfiguringYourApp.html#//apple_ref/doc/uid/TP40012582-CH28-SW18) in RetailMapper app conforms the following rules: 
-- The version number is in the format: {MajorVersion}.{MinorVersion}.{Revision} in which: 
-   - **Major version** - Major changes, redesigns, and functionality changes
-   - **Minor version** - Minor improvements, additions to functionality
-   - **Revision** - A patch number for bug-fixes
-- The build number is the total number of builds for a release or for the entire product lifetime. 
-
-
-- The version number is indicated by the project manager based on the goal of the release.
-- The build number must be increased by 1 and the code update must be submitted to Github before [building a release for testing or distribution](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/TestingYouriOSApp/TestingYouriOSApp.html#//apple_ref/doc/uid/TP40012582-CH8-SW24).
-- The archives must be backed up in a persitent storage and can be identified by version and build number.
+| Development	| QA		| CRM & Backend Service |
+|:---------------------:|:---------------------:|:------------------------:|:------------------------:|
+| [![i1] [dev-image]] [dev-doc] | [![i2] [qa-image]] [qa-doc] | [![i3] [baas-image]] [baas-doc] |
+| Documentation for the Application Providers | Documentation for the QA Testers | Documentation about CRM & Backend Service |
 
 ## Copyright
 
-Retail Mapper is copyright 2013-2014 SkuRun, Inc.
+Retail Mapper is copyright 2014 SkuRun, Inc.
 
-
-[icon]: https://github.com/SkuRun/RetailMapper-iOS/wiki/images/icon.png
-[screenshot1]: https://github.com/SkuRun/RetailMapper-iOS/wiki/images/screenshot1.jpg
-[screenshot2]: https://github.com/SkuRun/RetailMapper-iOS/wiki/images/screenshot2.jpg
-[screenshot3]: https://github.com/SkuRun/RetailMapper-iOS/wiki/images/screenshot3.jpg
-[screenshot4]: https://github.com/SkuRun/RetailMapper-iOS/wiki/images/screenshot4.jpg
+[dev-doc]: https://github.com/SkuRun/SRBeacon/wiki/Development
+[dev-image]: https://github.com/SkuRun/SRBeacon/wiki/images/development.png
+[qa-doc]: https://github.com/SkuRun/SRBeacon/wiki/Quality-Assurance
+[qa-image]: https://github.com/SkuRun/SRBeacon/wiki/images/qa.png
+[baas-doc]: https://github.com/SkuRun/SRBeacon/wiki/Backend-Service
+[baas-image]: https://github.com/SkuRun/SRBeacon/wiki/images/baas.png
